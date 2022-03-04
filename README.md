@@ -30,11 +30,11 @@ e.Generate a list removing even numbers.
 24.Accept the percentage of marks from user and display grade.
 
 Percentage	Grade
->90	          O
+>90	            O
 80-90	          A
 70-80	          B
 50-70	          C
-<50	          F 
+<50	            F 
 25.Generate a string by combaining first two characters and last two characters from an input string. If the length of input string is 2, then resultant string must be a concatenation of those characters or if length less than 2, return an empty string instead.
 26.Find the first appearance of 'not' followed by 'bad' in a given string. If found then replace the whole 'not bad' substring with 'good'.
 27.Evaluate using conditional statement.
